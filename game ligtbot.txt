@@ -1,0 +1,34 @@
+klik lightbot
+
+1 basics
+
+klik tombol play klik gambar bertulisan 1 basics klik 1 klik gambar welcome to lightbot klik gambar i need your to light all the blue tile
+klik gambar the walk command tell me to walk forward klik the light command tell to light up a tile klik gambar good luk
+
+klik arah panah atas klik arah panah atas lagi dan klik lampu klik play klik next/selanjutnya
+klik gambar goodluck klik gambar here are some new commands! klik gambar the left command tell me to turn to the left(counterclokwise) klik gambar and the light comand clockwise)
+klik gambar goodluck! klik panah tiga kali klik tanda arah kiri klik panah 2 kali klik tanda arah belok kiri klik tanda anah maju 2 kali terakhir klik lampu dan klik play klik next
+klik gambar awesome! you'getting it! Klik gambar Jump Command tell me to jump up Klik gambar and in other cases tells me to jump down klik Gambar Good Luck! Klik Klik JUump up klik jump up ke depan klik belok kanan jump ke atas klik lampu
+klik depan 2 kali klik belok kiri klik lompat klik lompat dan arah kedepan 3 kali klik lampu
+klik gambar remember! I have to light all the blue tiles! klik lampu klik lompat kedepan klik belok kiri klik belok kiri klik maju klik lampu klik lompat kedepan klik belok kiri klik maju 2 langkah klik lampu
+klik pegas, belok kiri, lankah satu, pegas, lampu, belok kiri,pegas, langkah satu, lampu.
+klik maju, kiri, pegas, lampu, pegas, lampu, kiri, pegas, lampu, kiri, pegas, lampu.
+klik pegas, pegas, kanan, maju, kiri, pegas, lampu, kiri, maju, lampu, pegas lampu.
+
+loops 2
+procedures
+
+klik produces buat dulu proc1 klik barisan proc1 buat langkah (maju, maju, maju, lampu) proc1 jadi. terus klik barisan main klik p1,kanan,p1,kanan,p1 klik next
+buat proc1 klik barisan proc1 buat langkah(maju,kiri,maju,kiri,kanan,maju) Proc1 jadi. terus klik barisan main klik P1,P1,P1, kanan, maju, Lampu. klik next
+buat proc1 klik barisan proc1 buat langkah(maju,maju,maju,lampu) proc1 jadi. terus klik barisan main klik P1,kiri,pegas,kiri,P1,kanan,pegas,kanan,P1 klik next
+buat proc1 dan proc2 klik barisan proc1 buat langkah (maju,lampu,maju,lampu,maju,lampu,maju,lampu) klik barisan Proc2 buat langkah (maju,maju) proc1 dan proc2 jadi terus klik barisan main klik P1,kanan,P2,kanan,P1,kiri,P2,kiri,P1. klik next
+buat proc1 dan proc2 klik barisan proc1 buat langkah (lampu,maju,lampu,pegas,pegas,lampu,maju,lampu) klik barisan proc2 buat langkah (P1,kanan,maju,kanan,p1) proc1 dan proc2 jadi terusn klik P2,kiri,pegas,pegas,kiri,p1. klik next
+
+loops3
+
+buat proc1 klik barisan proc1 buat langkah (maju,lampu,P1) proc1 jadi. terus klik P1 klik next.
+buat proc1 kilk barisan proc1 buat langkah (pegas,lampu,P1) Proc1 jadi. terus klik P1 klik next.
+buat proc1 klik barisan proc1 buat langkah (maju,lampu,kiri,maju,pegas,lampu,pegas,P1) Proc1 jadi. terus klik P1 klik next.
+buat proc1 klik barisan proc1 buat langkah (lampu,maju,kiri,maju,lampu,kanan,maju,P1) Proc1 jadi. terus klik P1 klik next.
+buat proc2 klik barisan Proc2 buat langkah (lampu,pegas,lampu,maju,lampu,maju,lampu,pegas) buat proc1 klik barisan proc1 buat langkah (p2,kiri,p2,kiri,p2,kiri,p2) Proc1 dan proc2 jadi klik p1 klik next.
+buat Proc2 Klik Barisan Proc2 Buat Langkah (Lampu,kiri,pegas,kanan,maju,lampu,kanan,maju) buat proc1 klik barisan proc1 buat langkah (p2,kiri,maju,pegas,pegas,pegas,kiri,p1) Proc1 dan Proc2 jadi Klik P1 Klik next.
